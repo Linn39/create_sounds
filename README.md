@@ -7,7 +7,7 @@ For example, install using homebrew:
 ## Setup
 
 1. Clone repository \
-```git clone https://github.com/Syte-Institute/melodic_contour_test.git``` \
+```git clone https://github.com/Linn39/create_sounds.git``` \
 ```cd melodic_contour_test```
 
 2. Create virtual environment with Python version 3.10 (for example using Conda) \
